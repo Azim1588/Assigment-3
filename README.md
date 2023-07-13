@@ -1,6 +1,5 @@
 # Assigment 3
 
-Expression Manager
 Expression Manager is a  program that performs operations on mathematical expressions. It provides functionality to check the balance of parentheses and convert infix expressions to postfix notation.
 Features
 Balanced Parentheses Check: The isBalanced function checks whether an expression has balanced parentheses and brackets. It uses a stack data structure to track opening and closing brackets, returns true if the expression is balanced, and false otherwise.
